@@ -3,7 +3,7 @@ function calc() {
     var a = parseInt(document.querySelector("#value1").value);
     //grap the value of the second input 
     var b = parseInt(document.querySelector("#value2").value);
-    //grap the value of the operator  input no need to convert it to num
+    //grap the value of the operator  input 
     var op = document.querySelector("#operator").value;
     var calculate;
 
