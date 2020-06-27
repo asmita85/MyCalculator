@@ -16,8 +16,6 @@ form {
 #formDiv {
 display: block;
 text-align: center;/* to center input button text .....*/
-
-
    
 background-color: lightskyblue;
 width: 30%;
@@ -26,8 +24,6 @@ border: 3px solid lightyellow;
 padding-top: 25px;
 padding-bottom: 25px;
 overflow:auto;/*to prevent my div from overlapping*/
-
-
 
 }
 
@@ -47,9 +43,7 @@ button{
     display: block;  
     width: 100%;
     margin: 20px 0 ;
-    
-  
-    
+      
 
 }
 
