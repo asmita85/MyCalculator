@@ -1,0 +1,78 @@
+body {
+    background-color: lightblue;
+    
+}
+h1 {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    text-align: left;/* to align value 1 value 2 to left*/
+    color:blueviolet;
+
+}
+
+#formDiv {
+display: block;
+text-align: center;/* to center inpu button text .....*/
+
+background-color: lightskyblue;
+width: 30%;
+margin: 0 auto; /* to move the div in center*/
+border: 3px solid lightyellow;
+padding-top: 25px;
+padding-bottom: 25px;
+
+
+
+
+
+}
+
+
+input {
+    display: block;
+    margin: 10px 0px;
+ 
+
+}
+#operator {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+}
+button{
+    display: block;  
+    width: 100%;
+    margin: 20px 0 ;
+    
+  
+    
+
+}
+
+#result {
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    color:white;
+    font-size: 30px;
+
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    margin: 0 auto;
+
+    border: 3px solid blue;
+
+    overflow-y: hidden;
+
+  
+
+    
+}
+
+
